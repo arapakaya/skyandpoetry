@@ -9,6 +9,6 @@
     "@whiskeysockets/baileys": "^6.6.1",
     "axios": "^1.6.0",
     "pino": "^8.0.0",
-    "ytdl-core": "^4.11.2"  // ✅ ADD THIS LINE
+    "ytdl-core": "^4.11.2"
   }
 }
